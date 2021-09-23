@@ -1,7 +1,7 @@
 const panels = document.querySelectorAll('.panel'); //all panels in nodelist
 
 //for each panel that is clicked, active class is added
-panels.forEach((panel)=>{
+panels.forEach((panel)=>{ 
     panel.addEventListener('click', ()=>{
         removeActiveClasses();
         panel.classList.add('active') //on click, add active class
