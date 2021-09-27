@@ -10,3 +10,6 @@
 
 ## HiddenSearchBox
 ![screen-capture (1)](https://user-images.githubusercontent.com/85392479/134783111-0b32ce8b-5274-4bef-b87f-6755a8ee2e9a.gif)
+
+##BlurLoading
+![6d95e7da-fa85-4c51-a623-804ec2dadb9b](https://user-images.githubusercontent.com/85392479/134961522-1aadb0b7-71ca-4da4-b1ad-a01279bc6326.gif)
