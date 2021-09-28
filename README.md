@@ -16,3 +16,12 @@
 
 ## ScrollAnimation
 ![495e99b1-99d1-49ee-b050-e83322072b43 (1)](https://user-images.githubusercontent.com/85392479/134978634-4a01719e-fa56-414d-afff-96bd73447bac.gif)
+
+## SplitLandingPage
+![7d8773ec-8c7e-4cef-94cf-2c441107716e](https://user-images.githubusercontent.com/85392479/135140645-9dacaf64-8ca7-4f45-9c9d-ff494991215f.gif)
+
+## FormWaveAnimation
+![screen-capture (2)](https://user-images.githubusercontent.com/85392479/135140633-bdcafbfd-d468-49ef-b57a-bffdcf862943.gif)
+
+
+
