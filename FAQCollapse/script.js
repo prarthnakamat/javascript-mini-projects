@@ -6,14 +6,3 @@ toggles.forEach(toggle => {
     })
 })
 
-
-// const down = document.querySelector('.fa-chevron-down')
-// const close = document.getElementsByClassName('.fa-times')
-
-// down.addEventListener("click", () => {
-//     document.getElementsByClassName('faq').classList.add('active')
-// })
-
-// close.addEventListener("click", () => {
-//     document.getElementsByClassName('faq').classList.remove('active')
-// })S
