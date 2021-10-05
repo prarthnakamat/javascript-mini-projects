@@ -32,4 +32,7 @@ https://user-images.githubusercontent.com/85392479/135326967-164dbb9b-d2db-4323-
 ## EventKeyCodes
 ![267ea836-63f8-4a91-a7fb-7beffd1ad215](https://user-images.githubusercontent.com/85392479/135665244-5c3b5ea0-9850-460e-9793-f347c7a334ed.gif)
 
+## FAQCollapse
+![bbd9e212-f6da-4543-96a1-be9f58e81c19 (1)](https://user-images.githubusercontent.com/85392479/136072005-15b85f29-b163-40ac-a05a-2fd154e10d14.gif)
+
 
